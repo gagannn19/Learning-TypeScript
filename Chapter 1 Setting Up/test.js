@@ -5,7 +5,7 @@ var a = 12;
 var b = 13;
 // a = "gagan"
 // TypeScript Setup
-// • Setting up a TypeScript project 
+// •Setting up a TypeScript project 
 // •Configuring tsconfig. json
 // •CompilingTypeScript
 function abcd() {

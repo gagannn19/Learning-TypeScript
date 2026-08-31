@@ -28,5 +28,7 @@ function abcd() {
 // Just do these ...
 // Make a folder folder_name
 // Make a file inside it file_name.ts
-// Run npx tsc --init , This creates tsconfig.json.
+// Run npx tsc --init , This creates tsconfig.json. (* tsconfig.json tells TypeScript how you want your TypeScript project to be compiled.)
 // npx tsc --watch
+
+// crewclashP@ssw0rdsupab@se
